@@ -1,5 +1,5 @@
 <?php
-	$conexion = mysqli_connect("localhost", "root", "", "examen_final");
+	$conexion = mysqli_connect("wb39lt71kvkgdmw0.cbetxkdyhwsb.us-east-1.rds.amazonaws.com", "nse5yzwsob71ngv8", "wh8vcdjbw98fh7jv", "ponza96wuwezzccv");
 
 
 ?>
