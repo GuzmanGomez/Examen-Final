@@ -1,3 +1,4 @@
+//GUZMAN GOMEZ JOSE FRANCISCO //1320114174 //3522IS //https://escudosdeliciosos3522.herokuapp.com/ //https://www.boredapi.com/
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
